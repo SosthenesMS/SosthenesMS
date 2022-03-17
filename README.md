@@ -7,6 +7,8 @@
 - 💼 &nbsp; Estou em busca de oportunidades na área de desenvolvimento de sistemas, aplicações mobile e desenvolvimento em Java.
 - 🌱 &nbsp; Aprendendo mais sobre ** Spring boot e Mobile development **.
   
+- <a href="https://www.linkedin.com/in/sósthenes-mendonça-a002b9119" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  
 <h4>
 
   ----
