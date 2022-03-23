@@ -37,11 +37,8 @@
 
   **Network**
   
-  <a href="https://www.linkedin.com/in/sósthenes-mendonça-a002b9119" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-  
-  <a href="mailto:sosthenesms@gmail.com">
-    <img src="https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white" title="Send me an email" align="right" alt="Gmail">
-</a>
+  <a href="https://www.linkedin.com/in/sósthenes-mendonça-a002b9119" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+  <a href="mailto:sosthenesms@gmail.com"> <img src="https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white" title="Send me an email" align="flat" alt="Gmail">
   
 
 
