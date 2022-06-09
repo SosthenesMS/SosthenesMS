@@ -1,8 +1,8 @@
-<h2><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="10px"> Oi, eu sou Sósthenes Mendonça! </h2></img>
+:wave: Oi, eu sou Sósthenes Mendonça!
 
 <h4>
   
-- 🤔 &nbsp; Sou formado em logística e atuo na área há 05 anos, porém atualmente estou migrando para a área de desenvolvendo de software e explorando novas tecnologias.
+- :sunglasses:  Sou formado em logística e atuo na área há 05 anos, porém atualmente estou migrando para a área de desenvolvendo de software e explorando novas tecnologias.
 - 🎓 &nbsp; Estou estudando Análise e Desenvolvimento de Sistemas na <a href="https://descomplica.com.br/faculdade/">Uniamerica Descomplica</a>.
 - 💼 &nbsp; Estou em busca de oportunidades na área de desenvolvimento de sistemas, aplicações mobile e desenvolvimento em Java.
 - 🌱 &nbsp; Aprendendo mais sobre ** Spring boot e Mobile development **.
