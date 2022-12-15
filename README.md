@@ -36,19 +36,23 @@
   ![Android Studio](https://img.shields.io/badge/-Android%20Studio-333333?style=flat&logo=Android-Studio&logoColor=007ACC)
   ![`Notepad++`](https://img.shields.io/badge/-Notepad++-333333?style=flat&logo=Notepad++&logoColor=007ACC)
  
+ 
+ <script src="https://platform.linkedin.com/badges/js/profile.js" async defer type="text/javascript">
+
+</script>
 
   **Network**
   
   <a href="https://www.linkedin.com/in/sósthenes-mendonça-a002b9119" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
   <a href = "sosthenesms@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
- <a href = "sosthenesms@yahoo.com.br"><img src="https://img.shields.io/badge/-Yahoo-%23333?style=for-the-badge&logo=Yahoo&logoColor=white" target="_blank"></a>
+  <a href = "sosthenesms@yahoo.com.br"><img src="https://img.shields.io/badge/-Yahoo-%23333?style=for-the-badge&logo=Yahoo&logoColor=white" target="_blank"></a>
  
   
 
-
+<!--
 [![card](https://github-readme-stats.vercel.app/api?username=SosthenesMS&theme=tokyonight&show_icons=true)](https://github.com/iuricode/)
 [![iuricode](https://github-readme-stats.vercel.app/api/top-langs/?username=SosthenesMS&hide=html&layout=compact&theme=tokyonight)](https://github.com/iuricode/)
-
+-->
   
 
   
