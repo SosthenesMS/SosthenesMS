@@ -43,6 +43,10 @@
 
   **Network**
   
+  <script src="https://platform.linkedin.com/badges/js/profile.js" async defer type="text/javascript"></script>
+  <div class="badge-base LI-profile-badge" data-locale="pt_BR" data-size="large" data-theme="dark" data-type="HORIZONTAL" data-vanity="sosthenes-mendonca" data-      version="v1"><a class="badge-base__link LI-simple-link" href="https://br.linkedin.com/in/sosthenes-mendonca?trk=profile-badge">Sósthenes Mendonça</a></div>
+  
+  
   <a href="https://www.linkedin.com/in/sósthenes-mendonça-a002b9119" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
   <a href = "sosthenesms@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href = "sosthenesms@yahoo.com.br"><img src="https://img.shields.io/badge/-Yahoo-%23333?style=for-the-badge&logo=Yahoo&logoColor=white" target="_blank"></a>
