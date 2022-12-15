@@ -37,7 +37,7 @@
   
   ![Android Studio](https://img.shields.io/badge/-Android%20Studio-333333?style=flat&logo=Android-Studio&logoColor=007ACC)
   ![`Notepad++`](https://img.shields.io/badge/-Notepad++-333333?style=flat&logo=Notepad++&logoColor=007ACC)
-  ![intellij idea](https://img.shields.io/badge/-intellij idea-333333?style=flat&logo=intellij idea&logoColor=007ACC)
+  ![intellijidea](https://img.shields.io/badge/-intellijidea-333333?style=flat&logo=intellijidea&logoColor=007ACC)
   ![Eclipse](https://img.shields.io/badge/-Eclipse-333333?style=flat&logo=eclipse-ide&logoColor=2C2255)
   ![Trello](https://img.shields.io/badge/-Trello-333333?style=flat&logo=trello&logoColor=007ACC)
   
