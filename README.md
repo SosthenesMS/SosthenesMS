@@ -27,7 +27,7 @@
 **Development Tools**
   
   ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
-  ![intellij idea](https://img.shields.io/badge/-intellijideaCode-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
+  ![intellij idea](https://img.shields.io/badge/-intellij idea-333333?style=flat&logo=intellijidea-code&logoColor=007ACC)
   ![`Apache NetBeans IDE`](https://img.shields.io/badge/-Apache%20NetBeans%20IDE-333333?style=flat&logo=Apache-NetBeans-IDE&logoColor=007ACC)
   
   ![Android Studio](https://img.shields.io/badge/-Android%20Studio-333333?style=flat&logo=Android-Studio&logoColor=007ACC)
