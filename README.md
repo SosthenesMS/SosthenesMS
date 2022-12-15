@@ -26,8 +26,10 @@
 
 **Development Tools**
   
-  ![`Apache NetBeans IDE`](https://img.shields.io/badge/-Apache%20NetBeans%20IDE-333333?style=flat&logo=Apache-NetBeans-IDE&logoColor=007ACC)
   ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
+  ![intellij idea](https://img.shields.io/badge/-intellijideaCode-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
+  ![`Apache NetBeans IDE`](https://img.shields.io/badge/-Apache%20NetBeans%20IDE-333333?style=flat&logo=Apache-NetBeans-IDE&logoColor=007ACC)
+  
   ![Android Studio](https://img.shields.io/badge/-Android%20Studio-333333?style=flat&logo=Android-Studio&logoColor=007ACC)
   ![`Notepad++`](https://img.shields.io/badge/-Notepad++-333333?style=flat&logo=Notepad++&logoColor=007ACC)
   ![Eclipse](https://img.shields.io/badge/-Eclipse-333333?style=flat&logo=eclipse-ide&logoColor=2C2255)
