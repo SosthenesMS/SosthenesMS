@@ -4,10 +4,10 @@
   
 - :sunglasses:  Sou formado em logística e atuo na área há 05 anos, porém atualmente estou migrando para a área de desenvolvendo de software e explorando novas tecnologias.
 - 🎓 &nbsp; Estou estudando Análise e Desenvolvimento de Sistemas na <a href="https://descomplica.com.br/faculdade/">Uniamerica Descomplica</a>.
-- 💼 &nbsp; Estou em busca de oportunidades na área de desenvolvimento de sistemas, aplicações mobile e desenvolvimento em Java.
+- 💼 &nbsp; Estou em busca de oportunidades na área de desenvolvimento de sistemas, desenvolvimento Back-End, desenvolvimento em Java, DevOps e aplicações mobile.
 - 🌱 &nbsp; Aprendendo mais sobre ** Spring boot e Mobile development **.
   
-<h4>
+</h4>
 
   ----
 
@@ -46,7 +46,8 @@
   
 
 
-[![card](https://github-readme-stats.vercel.app/api?username=SosthenesMS&theme=tokyonight&show_icons=true)](https://github.com/iuricode/)  [![iuricode](https://github-readme-stats.vercel.app/api/top-langs/?username=SosthenesMS&hide=html&layout=compact&theme=tokyonight)](https://github.com/iuricode/)
+[![card](https://github-readme-stats.vercel.app/api?username=SosthenesMS&theme=tokyonight&show_icons=true)](https://github.com/iuricode/)
+[![iuricode](https://github-readme-stats.vercel.app/api/top-langs/?username=SosthenesMS&hide=html&layout=compact&theme=tokyonight)](https://github.com/iuricode/)
 
   
 
@@ -55,55 +56,7 @@
   
   
   
-  
-  
-  
-  <!--
-  
-   <a href="https://github.com/SosthenesMS/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=SosthenesMS&repo=SosthenesMS&theme=tokyonight" />
-</a>
-  
-  
-  
-  
-  
-  
-<!--  
-  
 
-|------|--------|
-
-
-| <a href="https://github.com/SosthenesMS/github-readme-stats.vercel.app"><img align="center" src="https://github-readme-stats.vercel.app/api?username=SosthenesMS&show_icons=true&include_all_commits=true&theme=tokyonight&hide_border=true" alt="Anurag's github stats" /></a> | <a href="https://github.com/SosthenesMS/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SosthenesMS&layout=compact&theme=tokyonight&hide_border=true" /></a> |
-| ------------- | ------------- |
-
-
-
-
-
-
-
-  ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
-  
-  
-  
-
-
-<h3 align="center">Trabalhando em:</h3>
-
-<p align="center">
-  <a href="https://github.com/SosthenesMS/SosthenesMS">
-    <img
-      align="center"
-      height="120em"
-      src="https://github-readme-stats.vercel.app/api/pin/?username=SosthenesMS&repo=SosthenesMS&theme=tokyonight">
-    </img>
-  </a>
-</p>
-
-
--->
 
 <!--
 **SosthenesMS/SosthenesMS** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
