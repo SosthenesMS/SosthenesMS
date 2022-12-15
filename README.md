@@ -23,34 +23,25 @@
 
   ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
   ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
+  ![Trello](https://img.shields.io/badge/-Trello-333333?style=flat&logo=trello&logoColor=007ACC)
 
 **Development Tools**
 
 
-   <a href='https://img.shields.io/jetbrains/plugin/d/11224-pinnote.svg'> <img src='https://img.shields.io/jetbrains/plugin/d/11224-pinnote.svg' alt='Count of    downloads'></a>
-   
-   [![Jetbrains Plugin](https://img.shields.io/jetbrains/plugin/v/13040-swoole-ide-helper?
-  
+  ![intellijidea](https://img.shields.io/badge/-intellijidea-333333?style=flat&logo=intellijidea&logoColor=007ACC)
+  ![Jetbrains](https://img.shields.io/badge/-Jetbrains-333333?style=flat&logo=Jetbrains&logoColor=007ACC)
   ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
-  ![intellij idea](https://img.shields.io/badge/-intellij idea-333333?style=flat&logo=intellijidea-code&logoColor=007ACC)
+  ![Eclipse](https://img.shields.io/badge/-Eclipse-333333?style=flat&logo=eclipse-ide&logoColor=2C2255)
   ![`Apache NetBeans IDE`](https://img.shields.io/badge/-Apache%20NetBeans%20IDE-333333?style=flat&logo=Apache-NetBeans-IDE&logoColor=007ACC)
-  
   ![Android Studio](https://img.shields.io/badge/-Android%20Studio-333333?style=flat&logo=Android-Studio&logoColor=007ACC)
   ![`Notepad++`](https://img.shields.io/badge/-Notepad++-333333?style=flat&logo=Notepad++&logoColor=007ACC)
-  ![intellij_idea](https://img.shields.io/badge/-intellij_idea-333333?style=flat&logo=intellij_idea&logoColor=007ACC)
-  ![Jetbrains](https://img.shields.io/badge/-Jetbrains-333333?style=flat&logo=Jetbrains&logoColor=007ACC)
-  ![Eclipse](https://img.shields.io/badge/-Eclipse-333333?style=flat&logo=eclipse-ide&logoColor=2C2255)
-  ![Trello](https://img.shields.io/badge/-Trello-333333?style=flat&logo=trello&logoColor=007ACC)
-  
  
-  
-  
-
 
   **Network**
   
   <a href="https://www.linkedin.com/in/sósthenes-mendonça-a002b9119" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
   <a href = "sosthenesms@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+ <a href = "sosthenesms@yahoo.com.br"><img src="https://img.shields.io/badge/-Yahoo-%23333?style=for-the-badge&logo=Yahoo&logoColor=white" target="_blank"></a>
  
   
 
