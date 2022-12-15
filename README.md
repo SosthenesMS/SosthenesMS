@@ -1,3 +1,4 @@
+
 :wave: Oi, eu sou Sósthenes Mendonça!
 
 <h4>
@@ -19,14 +20,15 @@
   <!--<img align="center" alt="Marcilio-Java" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">
   -->
   
+  
 **DevOps**
 
   ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
   ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
   ![Trello](https://img.shields.io/badge/-Trello-333333?style=flat&logo=trello&logoColor=007ACC)
 
-**Development Tools**
 
+**Development Tools**
 
   ![intellijidea](https://img.shields.io/badge/-intellijidea-333333?style=flat&logo=intellijidea&logoColor=007ACC)
   ![Jetbrains](https://img.shields.io/badge/-Jetbrains-333333?style=flat&logo=Jetbrains&logoColor=007ACC)
@@ -37,35 +39,24 @@
   ![`Notepad++`](https://img.shields.io/badge/-Notepad++-333333?style=flat&logo=Notepad++&logoColor=007ACC)
  
  
- <script src="https://platform.linkedin.com/badges/js/profile.js" async defer type="text/javascript">
-
-</script>
-
-  **Network**
-  
-  <script src="https://platform.linkedin.com/badges/js/profile.js" async defer type="text/javascript"></script>
-  <div class="badge-base LI-profile-badge" data-locale="pt_BR" data-size="large" data-theme="dark" data-type="HORIZONTAL" data-vanity="sosthenes-mendonca" data-      version="v1"><a class="badge-base__link LI-simple-link" href="https://br.linkedin.com/in/sosthenes-mendonca?trk=profile-badge">Sósthenes Mendonça</a></div>
-  
-  
-  <a href="https://www.linkedin.com/in/sósthenes-mendonça-a002b9119" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+   **Network**
+   
+  <a href="https://www.linkedin.com/in/sosthenes-mendonca" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
   <a href = "sosthenesms@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href = "sosthenesms@yahoo.com.br"><img src="https://img.shields.io/badge/-Yahoo-%23333?style=for-the-badge&logo=Yahoo&logoColor=white" target="_blank"></a>
- 
   
 
 <!--
 [![card](https://github-readme-stats.vercel.app/api?username=SosthenesMS&theme=tokyonight&show_icons=true)](https://github.com/iuricode/)
 [![iuricode](https://github-readme-stats.vercel.app/api/top-langs/?username=SosthenesMS&hide=html&layout=compact&theme=tokyonight)](https://github.com/iuricode/)
--->
+ -->
   
 
   
 ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)  
   
+ 
   
-  
-
-
 <!--
 **SosthenesMS/SosthenesMS** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
