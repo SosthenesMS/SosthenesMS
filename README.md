@@ -25,6 +25,11 @@
   ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
 
 **Development Tools**
+
+
+   <a href='https://img.shields.io/jetbrains/plugin/d/11224-pinnote.svg'> <img src='https://img.shields.io/jetbrains/plugin/d/11224-pinnote.svg' alt='Count of    downloads'></a>
+   
+   [![Jetbrains Plugin](https://img.shields.io/jetbrains/plugin/v/13040-swoole-ide-helper?
   
   ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
   ![intellij idea](https://img.shields.io/badge/-intellij idea-333333?style=flat&logo=intellijidea-code&logoColor=007ACC)
