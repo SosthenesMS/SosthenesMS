@@ -1,18 +1,15 @@
-
+<div>
+  
 :wave: Oi, eu sou Sósthenes Mendonça!
+* :sunglasses:  Sou formado em logística e atuo na área há 05 anos, porém atualmente estou migrando para a área de desenvolvendo de software e explorando novas tecnologias.
+* 🎓 &nbsp; Estou estudando Análise e Desenvolvimento de Sistemas na <a href="https://descomplica.com.br/faculdade/">Uniamerica Descomplica</a>.
+* 💼 &nbsp; Estou em busca de oportunidades na área de desenvolvimento de sistemas, desenvolvimento Back-End, desenvolvimento em Java, DevOps e aplicações mobile.
+* 🌱 &nbsp; Aprendendo mais sobre Spring boot e Mobile development.
+</div>
 
-<h4>
-  
-- :sunglasses:  Sou formado em logística e atuo na área há 05 anos, porém atualmente estou migrando para a área de desenvolvendo de software e explorando novas tecnologias.
-- 🎓 &nbsp; Estou estudando Análise e Desenvolvimento de Sistemas na <a href="https://descomplica.com.br/faculdade/">Uniamerica Descomplica</a>.
-- 💼 &nbsp; Estou em busca de oportunidades na área de desenvolvimento de sistemas, desenvolvimento Back-End, desenvolvimento em Java, DevOps e aplicações mobile.
-- 🌱 &nbsp; Aprendendo mais sobre ** Spring boot e Mobile development **.
-  
-</h4>
+---
 
-  ----
-
-  **Top Language**
+**Top Language**
   
   ![Java](https://img.shields.io/badge/-Java-333333?style=flat&logo=Java&logoColor=007396)
   ![Dart](https://img.shields.io/badge/-Dart-333333?style=flat&logo=Dart&logoColor=007396)
@@ -36,39 +33,19 @@
   ![`Notepad++`](https://img.shields.io/badge/-Notepad++-333333?style=flat&logo=Notepad++&logoColor=007ACC)
  
  
-   **Network**
+**Network**
    
-  <a href="https://www.linkedin.com/in/sosthenes-mendonca" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-  <a href = "sosthenesms@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href = "sosthenesms@yahoo.com.br"><img src="https://img.shields.io/badge/-Yahoo-%23333?style=for-the-badge&logo=Yahoo&logoColor=white" target="_blank"></a>
+<a href="https://www.linkedin.com/in/sosthenes-mendonca" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+<a href = "sosthenesms@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+<a href = "sosthenesms@yahoo.com.br"><img src="https://img.shields.io/badge/-Yahoo-%23333?style=for-the-badge&logo=Yahoo&logoColor=white" target="_blank"></a>
   
-  ##
-  
-<h6>
- <div>
+---
+<div>
   <a href="https://github.com/SosthenesMS">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=SosthenesMS&show_icons=true&theme=cobalt&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SosthenesMS&layout=compact&langs_count=7&theme=cobalt"/>
 </div>  
-</h6>
   
-  ##
+##
   
-![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)  
-  
- 
-  
-<!--
-**SosthenesMS/SosthenesMS** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
