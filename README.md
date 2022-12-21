@@ -17,10 +17,7 @@
   ![Java](https://img.shields.io/badge/-Java-333333?style=flat&logo=Java&logoColor=007396)
   ![Dart](https://img.shields.io/badge/-Dart-333333?style=flat&logo=Dart&logoColor=007396)
   ![Flutter](https://img.shields.io/badge/-Flutter-333333?style=flat&logo=Flutter&logoColor=007396)
-  <!--<img align="center" alt="Marcilio-Java" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">
-  -->
-  
-  
+ 
 **DevOps**
 
   ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
@@ -45,13 +42,15 @@
   <a href = "sosthenesms@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href = "sosthenesms@yahoo.com.br"><img src="https://img.shields.io/badge/-Yahoo-%23333?style=for-the-badge&logo=Yahoo&logoColor=white" target="_blank"></a>
   
+  ##
 
-<!--
-[![card](https://github-readme-stats.vercel.app/api?username=SosthenesMS&theme=tokyonight&show_icons=true)](https://github.com/iuricode/)
-[![iuricode](https://github-readme-stats.vercel.app/api/top-langs/?username=SosthenesMS&hide=html&layout=compact&theme=tokyonight)](https://github.com/iuricode/)
- -->
-  
+ <div>
+  <a href="https://github.com/SosthenesMS">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=SosthenesMS&show_icons=true&theme=cobalt&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SosthenesMS&layout=compact&langs_count=7&theme=cobalt"/>
+</div>  
 
+##
   
 ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)  
   
