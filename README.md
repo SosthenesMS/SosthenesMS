@@ -11,9 +11,17 @@
 
 **Top Language**
   
-  ![Java](https://img.shields.io/badge/-Java-333333?style=flat&logo=Java&logoColor=007396)
+ 
+  ![Java](https://custom-icon-badges.demolab.com/badge/Java-007396.svg?logo=java&logoColor=white)
+  ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E.svg?logo=javascript&logoColor=black)
+  ![Node.js](https://img.shields.io/badge/Node.js-43853D.svg?logo=node.js&logoColor=white)
+  ![html](https://img.shields.io/badge/HTML-E34F26.svg?logo=html5&logoColor=white)
+  ![css](https://img.shields.io/badge/CSS-1572B6.svg?logo=css3&logoColor=white)
+  ![Python](https://img.shields.io/badge/Python-14354C.svg?logo=python&logoColor=white)
+  ![SQL](https://custom-icon-badges.demolab.com/badge/SQL-025E8C.svg?logo=database&logoColor=white)
   ![Dart](https://img.shields.io/badge/-Dart-333333?style=flat&logo=Dart&logoColor=007396)
   ![Flutter](https://img.shields.io/badge/-Flutter-333333?style=flat&logo=Flutter&logoColor=007396)
+  
  
 **DevOps**
 
