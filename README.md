@@ -48,11 +48,11 @@
 <a href = "sosthenesms@yahoo.com.br"><img src="https://img.shields.io/badge/-Yahoo-%23333?style=for-the-badge&logo=Yahoo&logoColor=white" target="_blank"></a>
   
 ---
+
+![SosthenesMS's GitHub stats](https://github-readme-stats.vercel.app/api?username=SosthenesMS&show_icons=true&theme=tokyonight&count_private=true)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SosthenesMS&layout=compact&theme=tokyonight&count_private=true)](https://github.com/SosthenesMS/github-readme-stats)
+
 <div>
-  <a href="https://github.com/SosthenesMS">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=SosthenesMS&show_icons=true&theme=cobalt&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SosthenesMS&layout=compact&langs_count=7&theme=cobalt"/>
-</div>  
   
 ##
   
