@@ -1,7 +1,7 @@
 <div>
   
 :wave: Oi, eu sou Sósthenes Mendonça!
-* :sunglasses:  Sou formado em logística e atuo na área há 05 anos, porém atualmente estou migrando para a área de desenvolvendo de software e explorando novas tecnologias.
+* :sunglasses:  Sou formado em logística e atuo na área há 07 anos, porém atualmente estou migrando para a área de desenvolvendo de software e explorando novas tecnologias.
 * 🎓 &nbsp; Estou estudando Análise e Desenvolvimento de Sistemas na <a href="https://descomplica.com.br/faculdade/">Uniamerica Descomplica</a>.
 * 💼 &nbsp; Estou em busca de oportunidades na área de desenvolvimento de sistemas, desenvolvimento Back-End, desenvolvimento em Java, DevOps e aplicações mobile.
 * 🌱 &nbsp; Aprendendo mais sobre Spring boot e Mobile development.
