@@ -53,13 +53,24 @@
   
 ---
 
+</br>
+<div align="center">
+  <a href="https://github.com/SosthenesMS">
+  <img height="200em" src="https://github-readme-stats.vercel.app/api?username=SosthenesMS&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SosthenesMS&layout=compact&langs_count=7&theme=dark"/>
+</div>
+
+<!--
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=SosthenesMS&show_icons=true&count_private=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SosthenesMS&layout=compact&theme=tokyonight&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
 
-
+-->
 
 <div>
   
 ##
+<div align="center">
   
-![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
+ ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
+
+</div>
