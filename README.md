@@ -1,13 +1,13 @@
 <div>
   
 :wave:&nbsp; Oi, eu sou Sósthenes Mendonça!
-* :sunglasses: &nbsp; Sou formado em logística e atuo na área há 07 anos, porém atualmente estou migrando para a área de tecnologia como desenvolvedor backend.
-* 🎓 &nbsp; Estou estudando Análise e Desenvolvimento de Sistemas na <a href="https://descomplica.com.br/faculdade/">Uniamerica Descomplica</a>.
-* 🎓 &nbsp; Estou cursando desenvolvimento backend com java pelo programa ONE <a href="https://www.oracle.com/br/education/oracle-next-education">Oracle Next Education</a>.
-* 💼 &nbsp; Estou em busca de uma oportunidade de desenvolvedor backend júnior. Tenho preferência para trabalhar com o desenvolvimento em Java, mas estou disponível para experimentar e aprender novas tecnologias.
-* 🌱 &nbsp; Tenho experiência em desenvolvimento de projetos com Java e Spring Boot.
+* :sunglasses: &nbsp; Sou formado em logística à 07 anos e atualmente trabalho como Desenvolvedor Java Junior na PneuBras.
+* 🎓 &nbsp; Estou estudando Análise e Desenvolvimento de Sistemas na <a href="https://descomplica.com.br/faculdade/"> Uniamerica Descomplica </a>.
+* 🎓 &nbsp; Sou formado como desenvolvedor backend Java pelo programa ONE Oracle Next Education - ONE T4. <a href="https://www.oracle.com/br/education/oracle-next-education"> Oracle Next Education </a>.
+* 💼 &nbsp; Tenho experiência em desenvolvimento de projetos Spring Boot com Java, Microserviços, API Rest, SQL e React Native.
 * 💻 &nbsp; Sou incentivador de projetos Open Source.
-* 💙 &nbsp; #JavaLover! 
+* 💙 &nbsp; #JavaLover!
+
 </div>
 
 ---
@@ -20,10 +20,7 @@
   ![Node.js](https://img.shields.io/badge/Node.js-43853D.svg?logo=node.js&logoColor=white)
   ![html](https://img.shields.io/badge/HTML-E34F26.svg?logo=html5&logoColor=white)
   ![css](https://img.shields.io/badge/CSS-darkblue.svg?logo=css3&logoColor=white)
-  ![Python](https://img.shields.io/badge/Python-blue.svg?logo=python&logoColor=white)
   ![SQL](https://custom-icon-badges.demolab.com/badge/SQL-025E8C.svg?logo=database&logoColor=white)
-  ![Dart](https://img.shields.io/badge/-Dart-333333?style=flat&logo=Dart&logoColor=white)
-  ![Flutter](https://img.shields.io/badge/-Flutter-333333?style=flat&logo=Flutter&logoColor=white)
   
  
 **DevOps**
@@ -40,8 +37,6 @@
   ![Jetbrains](https://img.shields.io/badge/-Jetbrains-grey?style=flat&logo=Jetbrains&logoColor=white)
   ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-grey?style=flat&logo=visual-studio-code&logoColor=blue)
   ![Eclipse](https://img.shields.io/badge/-Eclipse-333333?style=flat&logo=eclipse-ide&logoColor=white)
-  ![`Apache NetBeans IDE`](https://img.shields.io/badge/-Apache%20NetBeans%20IDE-333333?style=flat&logo=Apache-NetBeans-IDE&logoColor=white)
-  ![Android Studio](https://img.shields.io/badge/-Android%20Studio-333333?style=flat&logo=Android-Studio&logoColor=white)
   ![`Notepad++`](https://img.shields.io/badge/-Notepad++-333333?style=flat&logo=Notepad++&logoColor=white)
  
  
