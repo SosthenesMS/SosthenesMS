@@ -8,6 +8,7 @@
 * 💻 &nbsp; Sou incentivador de projetos Open Source.
 * 💙 &nbsp; #JavaLover!
 * :heart: Casado com Debora Suellen
+* :dog: Pai de Aurora
 
 </div>
 
