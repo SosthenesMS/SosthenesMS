@@ -7,6 +7,7 @@
 * 💼 &nbsp; Tenho experiência em desenvolvimento de projetos Spring Boot com Java, Microserviços, API Rest, SQL e React Native.
 * 💻 &nbsp; Sou incentivador de projetos Open Source.
 * 💙 &nbsp; #JavaLover!
+* :heart: Casado com Debora Suellen
 
 </div>
 
