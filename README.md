@@ -1,14 +1,17 @@
 <div>
   
-:wave:&nbsp; Oi, eu sou Sósthenes Mendonça!
-* :sunglasses: &nbsp; Sou formado em logística à 07 anos e atualmente trabalho como Desenvolvedor Java Junior na PneuBras.
-* 🎓 &nbsp; Estou estudando Análise e Desenvolvimento de Sistemas na <a href="https://descomplica.com.br/faculdade/"> Uniamerica Descomplica </a>.
-* 🎓 &nbsp; Sou formado como desenvolvedor backend Java pelo programa ONE Oracle Next Education - ONE T4. <a href="https://www.oracle.com/br/education/oracle-next-education"> Oracle Next Education </a>.
-* 💼 &nbsp; Tenho experiência em desenvolvimento de projetos Spring Boot com Java, Microserviços, API Rest, SQL e React Native.
-* 💻 &nbsp; Sou incentivador de projetos Open Source.
-* 💙 &nbsp; #JavaLover!
-* :heart: Casado com Debora Suellen
-* :dog: Pai de Aurora
+:wave:&nbsp; Oi, eu sou Sósthenes Mendonça! () {
+* :sunglasses: &nbsp; Sou formado em logística à 07 anos e atualmente trabalho como Desenvolvedor Java Junior na PneuBras;
+* :white_check_mark: Sou formado como desenvolvedor backend Java pelo programa ONE Oracle Next Education - ONE T4. <a href="https://www.oracle.com/br/education/oracle-next-education"> Oracle Next Education </a>;
+* 🎓 &nbsp; Estou estudando Análise e Desenvolvimento de Sistemas na <a href="https://descomplica.com.br/faculdade/"> Uniamerica Descomplica </a>;
+* 💼 &nbsp; Tenho experiência em desenvolvimento de projetos Spring Boot com Java, Microserviços, API Rest, SQL e React Native;
+* 💻 &nbsp; Sou incentivador de projetos Open Source;
+* :clapper: Youtuber do canal <a href= "https://www.youtube.com/channel/UCQQLvhXhPjJ2eqzLoEbG4jw"> JavaNerd! </a>;
+* :heart: Casado com Debora Suellen;
+* :dog: Pai de Aurora;
+* 💙 &nbsp; #JavaLover!;
+}
+
 
 </div>
 
