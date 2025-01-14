@@ -1,6 +1,6 @@
 
 <div>
-👋  Oi, eu sou Sósthenes Mendonça!
+
 
 😎 Sou formado em Logística e também em Análise e Desenvolvimento de Sistemas. Atualmente auto como Desenvolvedor Backend Python no [**GRUPO PNEUBRAS**](https://www.grupopneubras.com/).
 
@@ -17,7 +17,7 @@
 💙 #ThechLover!
 
 
-:pushpin: **PROCESSOS IMPLEMENTADOS:**
+:pushpin: **👋  Oi, eu sou Sósthenes Mendonça!**
 * `0 - TABELA_LOG_IMPORTACAO` - Tabela (AD_LOGIMPPLAN) de LOG para registros das importações > BASE_ATUAL: (`PROD`).
 * `01 - AJUSTE_CENTRO_RESULTADO` - Processo da *CONTROLADORIA*: Ajuste do centro de Resultados > BASE_ATUAL: (`PROD`).
 * `02 - AJUSTE_PIS_COFINS` - Processo do *FISCAL*: Ajuste do PIS e COFINS > BASE_ATUAL: (`PROD`).
