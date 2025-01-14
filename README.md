@@ -2,7 +2,7 @@
 <div>
 
 
-😎 Sou formado em Logística e também em Análise e Desenvolvimento de Sistemas. Atualmente auto como Desenvolvedor Backend Python no [**GRUPO PNEUBRAS**](https://www.grupopneubras.com/).
+
 
 ✅ Tenho especialização em desenvolvimento Python pela Alura e desenvolvimento backend Java pelo programa ONE - <a href="https://www.oracle.com/br/education/oracle-next-education"></a> Oracle Next Education.
 
@@ -17,8 +17,8 @@
 💙 #ThechLover!
 
 
-:pushpin: **👋  Oi, eu sou Sósthenes Mendonça!**
-* `0 - TABELA_LOG_IMPORTACAO` - Tabela (AD_LOGIMPPLAN) de LOG para registros das importações > BASE_ATUAL: (`PROD`).
+**👋  Oi, eu sou Sósthenes Mendonça!**
+* 😎 Sou formado em Logística e também em Análise e Desenvolvimento de Sistemas. Atualmente auto como Desenvolvedor Backend Python no [**GRUPO PNEUBRAS**](https://www.grupopneubras.com/).
 * `01 - AJUSTE_CENTRO_RESULTADO` - Processo da *CONTROLADORIA*: Ajuste do centro de Resultados > BASE_ATUAL: (`PROD`).
 * `02 - AJUSTE_PIS_COFINS` - Processo do *FISCAL*: Ajuste do PIS e COFINS > BASE_ATUAL: (`PROD`).
 * `03 - AJUSTE_CUSTO_STAND_PNBLUB` - Processo da *PNBLUB*: Atualização da tabela de CUSTO STAND > BASE_ATUAL: (`PROD`).
