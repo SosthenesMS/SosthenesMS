@@ -1,6 +1,6 @@
 
 <div>
-   **👋  Oi, eu sou Sósthenes Mendonça!**
+   **👋  Oi, eu sou Sósthenes Mendonça!**</br>
   😎 Sou formado em Logística e também em Análise e Desenvolvimento de Sistemas. Atualmente auto como Desenvolvedor Backend Python no [**GRUPO PNEUBRAS**] (https://www.grupopneubras.com/).</br>
   ✅ Tenho especialização em desenvolvimento Python pela Alura e desenvolvimento backend Java pelo programa ONE - [**Oracle Next Education**] ([https://www.grupopneubras.com/](https://www.oracle.com/br/education/oracle-next-education/)).</br>
   💼 Tenho experiência em desenvolvimento de projetos de IA com LangChain e Python, projetos Python, FastApi, Spring Boot com Java, Microserviços, API Rest, SQL e React Native.</br>
