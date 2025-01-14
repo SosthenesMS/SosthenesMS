@@ -1,5 +1,5 @@
 
-<div>
+
    **👋  Oi, eu sou Sósthenes Mendonça!**</br>
   😎 Sou formado em Logística e também em Análise e Desenvolvimento de Sistemas. Atualmente auto como Desenvolvedor Backend Python no [**GRUPO PNEUBRAS**] (https://www.grupopneubras.com/).</br>
   ✅ Tenho especialização em desenvolvimento Python pela Alura e desenvolvimento backend Java pelo programa ONE - [**Oracle Next Education**] ([https://www.grupopneubras.com/](https://www.oracle.com/br/education/oracle-next-education/)).</br>
@@ -8,8 +8,6 @@
   ❤️ Casado com Debora Suellen.</br>
   🐶 Pai de Aurora.</br>
   💙 #ThechLover!</br>
-</div>
-
 
 
 ---
