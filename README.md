@@ -1,20 +1,14 @@
 <div>
 
-def saudacao: 
-    👋  Oi, eu sou Sósthenes Mendonça!
-    
-    😎 Sou formado em Logística e também em Análise e Desenvolvimento de Sistemas. Atualmente auto como Desenvolvedor Backend Python no [**GRUPO PNEUBRAS**](https://www.grupopneubras.com/).
-    
-    ✅ Tenho especialização em desenvolvimento Python pela Alura e desenvolvimento backend Java pelo programa ONE - <a href="https://www.oracle.com/br/education/oracle-next-education"></a> Oracle Next Education.
-    
-    💼 Tenho experiência em desenvolvimento de projetos de IA com LangChain e Python, projetos Python, FastApi, Spring Boot com Java, Microserviços, API Rest, SQL e React Native.
-    
-    💻 Sou incentivador de projetos Open Source.
-    
-    ❤️ Casado com Debora Suellen
-    🐶 Pai de Aurora
-    💙 #ThechLover!
-    return
+👋  Oi, eu sou Sósthenes Mendonça!
+😎 Sou formado em Logística e também em Análise e Desenvolvimento de Sistemas. Atualmente auto como Desenvolvedor Backend Python no [**GRUPO PNEUBRAS**](https://www.grupopneubras.com/).
+✅ Tenho especialização em desenvolvimento Python pela Alura e desenvolvimento backend Java pelo programa ONE - <a href="https://www.oracle.com/br/education/oracle-next-education"></a> Oracle Next Education.
+💼 Tenho experiência em desenvolvimento de projetos de IA com LangChain e Python, projetos Python, FastApi, Spring Boot com Java, Microserviços, API Rest, SQL e React Native.
+💻 Sou incentivador de projetos Open Source.
+❤️ Casado com Debora Suellen
+🐶 Pai de Aurora
+💙 #ThechLover!
+return
 
 
 </div>
