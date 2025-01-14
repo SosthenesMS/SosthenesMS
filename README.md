@@ -1,16 +1,17 @@
 <div>
-  
-:wave:&nbsp; Oi, eu sou Sósthenes Mendonça! () {
-* :sunglasses: &nbsp; Sou formado em logística à 07 anos e atualmente trabalho como Desenvolvedor Java Junior na PneuBras;
-* :white_check_mark: Sou formado como desenvolvedor backend Java pelo programa ONE Oracle Next Education - ONE T4. <a href="https://www.oracle.com/br/education/oracle-next-education"> Oracle Next Education </a>;
-* 🎓 &nbsp; Estou estudando Análise e Desenvolvimento de Sistemas na <a href="https://descomplica.com.br/faculdade/"> Uniamerica Descomplica </a>;
-* 💼 &nbsp; Tenho experiência em desenvolvimento de projetos Spring Boot com Java, Microserviços, API Rest, SQL e React Native;
-* 💻 &nbsp; Sou incentivador de projetos Open Source;
-* :clapper: Youtuber do canal <a href= "https://www.youtube.com/channel/UCQQLvhXhPjJ2eqzLoEbG4jw"> JavaNerd! </a>;
-* :heart: Casado com Debora Suellen;
-* :dog: Pai de Aurora;
-* 💙 &nbsp; #JavaLover!;
-}
+
+def saudacao: 
+    '''
+    👋  Oi, eu sou Sósthenes Mendonça!
+    😎 Sou formado em Logística e também em Análise e Desenvolvimento de Sistemas. Atualmente auto como Desenvolvedor Backend Python na <a href="https://www.grupopneubras.com/"> PneuBras.
+    ✅ Tenho especialização em desenvolvimento Python pela Alura e desenvolvimento backend Java pelo programa ONE - <a href="https://www.oracle.com/br/education/oracle-next-education"> Oracle Next Education.
+    💼 Tenho experiência em desenvolvimento de projetos de IA com LangChain e Python, projetos Python, FastApi, Spring Boot com Java, Microserviços, API Rest, SQL e React Native.
+    💻 Sou incentivador de projetos Open Source.
+    ❤️ Casado com Debora Suellen
+    🐶 Pai de Aurora
+    💙 #ThechLover!
+    '''
+    pass
 
 
 </div>
