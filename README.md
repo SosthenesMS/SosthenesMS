@@ -20,7 +20,7 @@
 
 </br>
 
-:pushpin: **Principais Bibliotecas:**
+:pushpin: **Main Frameworks:**
 * `psycopg2-binary==2.9.10`
 * `langchain==0.3.7`
 * `langchain-groq==0.2.1`
