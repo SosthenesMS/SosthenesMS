@@ -1,8 +1,6 @@
 
 <div>
-
-def saudacao:</br>
-    **👋  Oi, eu sou Sósthenes Mendonça!**
+   **👋  Oi, eu sou Sósthenes Mendonça!**
   😎 Sou formado em Logística e também em Análise e Desenvolvimento de Sistemas. Atualmente auto como Desenvolvedor Backend Python no [**GRUPO PNEUBRAS**](https://www.grupopneubras.com/).</br>
   ✅ Tenho especialização em desenvolvimento Python pela Alura e desenvolvimento backend Java pelo programa ONE - [**Oracle Next Education**]([https://www.grupopneubras.com/](https://www.oracle.com/br/education/oracle-next-education/)).</br>
   💼 Tenho experiência em desenvolvimento de projetos de IA com LangChain e Python, projetos Python, FastApi, Spring Boot com Java, Microserviços, API Rest, SQL e React Native.</br>
@@ -14,38 +12,34 @@ def saudacao:</br>
 
 
 
-
-
 ---
 
-**Top Language**
-  
- 
-  ![Java](https://custom-icon-badges.demolab.com/badge/Java-007396.svg?logo=java&logoColor=white)
-  ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E.svg?logo=javascript&logoColor=black)
-  ![Node.js](https://img.shields.io/badge/Node.js-43853D.svg?logo=node.js&logoColor=white)
-  ![html](https://img.shields.io/badge/HTML-E34F26.svg?logo=html5&logoColor=white)
-  ![css](https://img.shields.io/badge/CSS-darkblue.svg?logo=css3&logoColor=white)
-  ![SQL](https://custom-icon-badges.demolab.com/badge/SQL-025E8C.svg?logo=database&logoColor=white)
-  
- 
-**DevOps**
+:pushpin: **Top Language:**
+* `PYTHON 3.12`
+* `JAVA 11 `
 
-  ![Springboot](https://img.shields.io/badge/-Springboot-green?style=flat&logo=SpringBoot&logoColor=white)
-  ![Git](https://img.shields.io/badge/-Git-white?style=flat&logo=git)
-  ![GitHub](https://img.shields.io/badge/-GitHub-grey?style=flat&logo=github)
-  ![Trello](https://img.shields.io/badge/-Trello-grey?style=flat&logo=trello&logoColor=007ACC)
-  ![Scrum](https://img.shields.io/badge/-Scrum-007396?style=flat&logo=ScrumMaster&logoColor=white)
+</br>
 
-**Development Tools**
+:pushpin: **Principais Bibliotecas:**
+* `psycopg2-binary==2.9.10`
+* `langchain==0.3.7`
+* `langchain-groq==0.2.1`
+* `transformers==4.46.2`
+* `huggingface-hub==0.26.2`
+* `fastapi==0.115.5`
+* `oracledb==2.2.1` 
+* `pandas==2.2.2` 
 
-  ![intellijidea](https://img.shields.io/badge/-intellijidea-grey?style=flat&logo=intellijidea&logoColor=white)
-  ![Jetbrains](https://img.shields.io/badge/-Jetbrains-grey?style=flat&logo=Jetbrains&logoColor=white)
-  ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-grey?style=flat&logo=visual-studio-code&logoColor=blue)
-  ![Eclipse](https://img.shields.io/badge/-Eclipse-333333?style=flat&logo=eclipse-ide&logoColor=white)
-  ![`Notepad++`](https://img.shields.io/badge/-Notepad++-333333?style=flat&logo=Notepad++&logoColor=white)
- 
- 
+</br>
+
+:pushpin: **Skills:**
+* `Microsserviços`
+* `Chatbot com IA`
+* `IA com LangChain`
+* `API Rest com FastAPI`
+* `API Rest com Spring Boot`
+* `Integrações via banco`
+
 **Network**
    
 <a href="https://www.linkedin.com/in/sosthenes-mendonca" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
