@@ -1,4 +1,4 @@
-<div>
+
 
 👋  Oi, eu sou Sósthenes Mendonça!
 😎 Sou formado em Logística e também em Análise e Desenvolvimento de Sistemas. Atualmente auto como Desenvolvedor Backend Python no [**GRUPO PNEUBRAS**](https://www.grupopneubras.com/).
@@ -11,7 +11,7 @@
 return
 
 
-</div>
+
 
 ---
 
