@@ -15,6 +15,23 @@
 🐶 Pai de Aurora.
 
 💙 #ThechLover!
+
+
+:pushpin: **PROCESSOS IMPLEMENTADOS:**
+* `0 - TABELA_LOG_IMPORTACAO` - Tabela (AD_LOGIMPPLAN) de LOG para registros das importações > BASE_ATUAL: (`PROD`).
+* `01 - AJUSTE_CENTRO_RESULTADO` - Processo da *CONTROLADORIA*: Ajuste do centro de Resultados > BASE_ATUAL: (`PROD`).
+* `02 - AJUSTE_PIS_COFINS` - Processo do *FISCAL*: Ajuste do PIS e COFINS > BASE_ATUAL: (`PROD`).
+* `03 - AJUSTE_CUSTO_STAND_PNBLUB` - Processo da *PNBLUB*: Atualização da tabela de CUSTO STAND > BASE_ATUAL: (`PROD`).
+* `04 - AJUSTE_TABELA_PRECO_PNBLUB` - Processo da *PNBLUB*: Atualização da tabela de preço da PNBLUB > BASE_ATUAL: (`PROD`).
+* `05 - AJUSTE_TABELA_PRECO_COMERCIAL` - Processo do *COMERCIAL*: Atualização da tabela de preço PNB > BASE_ATUAL: (`PROD`).
+* `06 - AJUSTE_TABELA_PROMOCAO_COMERCIAL` - Processo do *COMERCIAL*: Atualização da tabela de promoções PNB > BASE_ATUAL: (`PROD`).
+* `07 - AJUSTE_NATUREZA` - Processo da *CONTROLADORIA*: Ajuste de Natureza atualizando as tabelas TGFRAT e TGFFIN > BASE_ATUAL: (`PROD`).
+* `08 - AJUSTE_DATA_NEGOCIACAO` - Processo da *CONTROLADORIA*: Ajuste de Data de Negociação atualizando as tabelas TGFRAT e TGFFIN > BASE_ATUAL: (`PROD`).
+* `09 - AJUSTE_DESCONTO_POR_TIPO_NEGOCIACAO` - Processo do *COMERCIAL*: Ajuste do desconto de acordo com o tipo de negociação > BASE_ATUAL: (`PROD`).
+* `10 - UPDATE_VENDEDOR` - Processo do *COMERCIAL*: Ajuste dos CODPARC dos vendedores > BASE_ATUAL: (`PROD`).
+* `11 - AJUSTE_PERFIL_FORNECEDOR` - Processo do *COMERCIAL*: Ajuste do percentual de desconto dos prfis de produto > BASE_ATUAL: (`PROD`).
+
+
 </div>
 
 
